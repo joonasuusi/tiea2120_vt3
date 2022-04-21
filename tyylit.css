@@ -1,0 +1,40 @@
+.oikealle {
+    float: right;
+}
+
+.div1 {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.div2 {
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.inputLeveys {
+    width: 200px;
+}
+
+.vasemmalle {
+    float: left;
+}
+
+.lohkolabel {
+    clear: both;
+    display: block;
+}
+
+.lLeveys {
+    max-width: 500px;
+}
+
+.listaus {
+    margin-top: 2%;
+    display: block;
+    position: static;
+}
+
+.piilota {
+    display: none;
+}
